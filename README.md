@@ -3,6 +3,7 @@ The Dockerfile for centos7aptest
 
 ## File requirements
 Inventory file(mine is named prod)
+
 site.yml file
 
 ## Setup
